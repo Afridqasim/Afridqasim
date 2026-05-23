@@ -66,6 +66,10 @@ Wholesale sales analytics and reporting system.
 
 </p>
 
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;WordPress+Expert;Business+Automation+Developer" />
+
+
 ---
 
 ## 📫 Connect With Me
